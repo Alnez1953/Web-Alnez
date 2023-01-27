@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r images, include=TRUE}
 knitr::include_graphics("img/cookie.gif")
+knitr::include_graphics("img/bruh.jpg")
 ```
 
 Distill is a publication format for scientific and technical writing, native to the web. 

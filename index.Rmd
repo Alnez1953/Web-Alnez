@@ -1,9 +1,6 @@
 ---
-title: "Testing if this changes right away"
+title: "Temptitle"
 image: "img/bruh.jpg"
-color1: "#5A5953"
-color2: "#C66560"
-angle: 125
 links:
   - label: YouTube
     url: "https://youtube.com/"
@@ -14,11 +11,15 @@ links:
   - label: Email
     url: "mailto:email@email.com"
 output:
-  postcards::onofre
+  postcards::trestles
 site: distill::distill_website
 
 ---
- 
+
+# Purpose
 Brief amount of text to preview the cite.
+
+# Random
+Thoughts
 
 

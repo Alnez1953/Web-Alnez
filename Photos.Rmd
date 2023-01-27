@@ -18,11 +18,11 @@ library(knitr)
 ```
 
 ```{r images, include=TRUE}
-knitr::include_graphics("img/bus.png")
-knitr::include_graphics("img/light.png")
-knitr::include_graphics("img/snow.png")
-knitr::include_graphics("img/fireh.png")
-knitr::include_graphics("img/lamp.png")
+include_graphics("img/bus.png")
+include_graphics("img/light.png")
+include_graphics("img/snow.png")
+include_graphics("img/fireh.png")
+include_graphics("img/lamp.png")
 include_graphics("img/coffee.png")
 ```
 

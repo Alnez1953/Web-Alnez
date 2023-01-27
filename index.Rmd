@@ -1,15 +1,15 @@
 ---
-title: "Temptitle"
-image: "img/bruh.jpg"
+title: "Web-Alnez"
+image: "img/cookie.gif"
 links:
   - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.youtube.com/channel/UCwutuHOcJSW1159wajZQyUw"
+  - label: Games
+    url: "https://alnez.itch.io/"
+  - label: Instagram
+    href: "https://www.instagram.com/1953desu/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "alnezisnot01@email.com"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -17,7 +17,7 @@ site: distill::distill_website
 ---
 
 # Purpose
-Brief amount of text to preview the cite.
+This cite is purely for my personal tomfoolery. I'll include stuff from school, games, photos, or writings I've done. This is more for my personal experience in using distill in R.
 
 # Random
 Thoughts

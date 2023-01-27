@@ -4,9 +4,6 @@ description: |
   Generally, I plan to practice my coding in R with the website, submit some assignments and perhaps upload some stuff I've written as well. 
 ---
 
-
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

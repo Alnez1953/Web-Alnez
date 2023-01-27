@@ -6,7 +6,7 @@
       "description": "Generally, I plan to practice my coding in R with the website, submit some assignments and perhaps upload some stuff I've written as well. ",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-27T12:14:06-08:00"
+      "last_modified": "2023-01-27T12:46:29-08:00"
     },
     {
       "path": "EC.html",
@@ -15,14 +15,14 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-27T12:14:07-08:00"
+      "last_modified": "2023-01-27T12:46:31-08:00"
     },
     {
       "path": "index.html",
       "title": "Web-Alnez",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Web-Alnez\r\n          \r\n          \r\n          Home\r\n          About\r\n          Photos\r\n          Extra Credit\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Web-Alnez\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        YouTube\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Games\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Instagram\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Purpose\r\n            This cite is purely for my personal tomfoolery. I’ll\r\n            include stuff from school, games, photos, or writings I’ve\r\n            done. This is more for my personal experience in using\r\n            distill in R.\r\n            \r\n            \r\n            Random\r\n            Thoughts\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Web-Alnez\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      YouTube\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Games\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Instagram\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Purpose\r\n              This cite is purely for my personal tomfoolery. I’ll\r\n              include stuff from school, games, photos, or writings I’ve\r\n              done. This is more for my personal experience in using\r\n              distill in R.\r\n              \r\n              \r\n              Random\r\n              Thoughts\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2023-01-27T12:14:25-08:00"
+      "last_modified": "2023-01-27T12:46:49-08:00"
     },
     {
       "path": "Photos.html",
@@ -31,7 +31,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\n\r\n\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-27T12:38:03-08:00"
+      "last_modified": "2023-01-27T12:46:54-08:00"
     }
   ],
   "collections": []

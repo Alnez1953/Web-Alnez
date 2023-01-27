@@ -1,0 +1,24 @@
+---
+title: "TEMPNAME"
+image: 
+color1: "#5A5953"
+color2: "#C66560"
+angle: 125
+links:
+  - label: YouTube
+    url: "https://youtube.com/"
+  - label: Vimeo
+    url: "https://vimeo.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
+site: distill::distill_website
+
+---
+ 
+Brief amount of text to preview the cite.
+
+

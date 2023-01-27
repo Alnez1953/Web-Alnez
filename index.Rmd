@@ -8,8 +8,6 @@ links:
     url: "https://alnez.itch.io/"
   - label: Instagram
     url: "https://www.instagram.com/1953desu/"
-  - label: Email
-    url: "alnezisnot01@email.com"
 output:
   postcards::trestles
 site: distill::distill_website

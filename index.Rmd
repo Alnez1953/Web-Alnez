@@ -18,6 +18,6 @@ site: distill::distill_website
 This cite is purely for my personal tomfoolery. I'll include stuff from school, games, photos, or writings I've done. This is more for my personal experience in using distill in R.
 
 # Random
-Thoughts
+Thoughts 
 
 

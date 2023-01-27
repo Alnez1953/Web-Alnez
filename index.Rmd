@@ -1,6 +1,6 @@
 ---
 title: "TEMPNAME"
-image: 
+image: "img/bruh.jpg"
 color1: "#5A5953"
 color2: "#C66560"
 angle: 125

@@ -21,10 +21,10 @@ library(png)
 
 
 ```{r images, include=TRUE}
-include_graphics("img/cookie.gif")
-include_graphics("img/butt.gif")
-include_graphics("img/bruh.jpg")
-include_graphics("img/bus.png")
+knitr::include_graphics("img/cookie.gif")
+knitr::include_graphics("img/butt.gif")
+knitr::include_graphics("img/bruh.jpg")
+knitr::include_graphics("img/bus.png")
 
 ```
 

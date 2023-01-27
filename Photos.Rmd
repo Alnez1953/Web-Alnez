@@ -11,18 +11,14 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
 ```
-
 
 ```{r images, include=TRUE}
 knitr::include_graphics("img/cookie.gif")
-knitr::include_graphics("img/butt.gif")
 knitr::include_graphics("img/bruh.jpg")
-knitr::include_graphics("img/bus.png")
-
 ```
 
 Distill is a publication format for scientific and technical writing, native to the web. 
